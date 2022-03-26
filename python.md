@@ -26,4 +26,4 @@ We need to know the following python modules to build the python website blocker
 
 
 Bonus Tip -it is optional and not mandatory for the project submission.  Create GUI as well
-![image](https://user-images.githubusercontent.com/68256594/160227574-21ae10d8-d18c-4405-8718-c303b29858f6.png)
+
